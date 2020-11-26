@@ -1,0 +1,24 @@
+Git command:
+git commit -m “commit message”
+
+Contains 3 pieces of information:
+Info about the changes made
+A reference to the preceding (parent) commit
+A hash code name
+Something like fb2d2ec5069fc6776c80b3ad6b7cbde3cade
+
+Git command:
+git pull
+The process of downloading commits that don’t exist on your machine from a remote repository is called pulling changes
+
+Git command:
+git push
+
+The process of adding your local changes to the remote repository is called pushing changes
+
+
+Git command:
+git clone
+
+git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
+https://github.com/ZoheB-98s/HelloGitHub.git
